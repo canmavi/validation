@@ -11,7 +11,7 @@
  // Örnek 1
 let result = TCNOCheck(11111111110);
 //result is true
-// Örnek 1
+// Örnek 2
 let result2 = TCNOCheck(11111111111);
 //result2 is false
 ```
